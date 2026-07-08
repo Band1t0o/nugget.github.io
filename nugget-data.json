@@ -1,0 +1,65 @@
+{
+  "rezervace": [
+    {
+      "od": "2026-07-10",
+      "do": "2026-07-13",
+      "kdo": "Míša a Petr"
+    },
+    {
+      "od": "2026-07-24",
+      "do": "2026-07-26",
+      "kdo": "Bára"
+    },
+    {
+      "od": "2026-07-27",
+      "do": "2026-07-31",
+      "kdo": "adam"
+    },
+    {
+      "od": "2026-08-01",
+      "do": "2026-08-09",
+      "kdo": "my dva — dovolená!"
+    },
+    {
+      "od": "2026-08-21",
+      "do": "2026-08-23",
+      "kdo": "Vojta"
+    }
+  ],
+  "poznamky": [
+    "Nová plynová bombička (červen)"
+  ],
+  "vybava": [
+    {
+      "ikona": "postel",
+      "nazev": "Spánek",
+      "text": "Rozkládací postel vzadu a střešní stan pro dva odvážné."
+    },
+    {
+      "ikona": "kuchyn",
+      "nazev": "Kuchyň",
+      "text": "Dvouplotýnkový vařič, lednička, dřez."
+    },
+    {
+      "ikona": "markyza",
+      "nazev": "Markýza",
+      "text": "Stín na počkání — vytáhneš ji za minutu i po ránu."
+    },
+    {
+      "ikona": "voda",
+      "nazev": "Voda",
+      "text": "40l nádrž, dřez a venkovní sprška na oplach nohou od moře."
+    },
+    {
+      "ikona": "elektrika",
+      "nazev": "Elektřina",
+      "text": "Solár na střeše, druhá baterka, USB zásuvky u postele."
+    },
+    {
+      "ikona": "vestavba",
+      "nazev": "Vestavba",
+      "text": "Skládací stolek, police a šuplík na kafe."
+    }
+  ],
+  "_upraveno": "2026-07-08T12:02:33.319Z"
+}
