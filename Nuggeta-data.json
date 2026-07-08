@@ -1,0 +1,46 @@
+{
+  "rezervace": [
+    {
+      "od": "2026-07-17",
+      "do": "2026-07-23",
+      "kdo": "Vojta a kačka"
+    }
+  ],
+  "poznamky": [
+    "Nová plynová bombička (červen)."
+  ],
+  "vybava": [
+    {
+      "ikona": "postel",
+      "nazev": "Postel",
+      "text": "Rozkládací postel vzadu a střešní stan pro dva odvážné."
+    },
+    {
+      "ikona": "kuchyn",
+      "nazev": "Kuchyň",
+      "text": "Dvouplotýnkový vařič, lednička a Kaččina zásoba na buchty."
+    },
+    {
+      "ikona": "markyza",
+      "nazev": "Markýza",
+      "text": "Stín na počkání — vytáhneš ji za minutu i po ránu."
+    },
+    {
+      "ikona": "voda",
+      "nazev": "Voda",
+      "text": "40l nádrž, dřez a venkovní sprška na oplach nohou od moře."
+    },
+    {
+      "ikona": "elektrika",
+      "nazev": "Elektrika",
+      "text": "Solár na střeše, druhá baterka, USB zásuvky u postele."
+    },
+    {
+      "ikona": "vestavba",
+      "nazev": "Vestavba",
+      "text": "Skládací stolek, police a šuplík na kafe."
+    }
+  ],
+  "youtube": "rop8xLlwIHE",
+  "_upraveno": "2026-07-08T17:53:32.397Z"
+}
